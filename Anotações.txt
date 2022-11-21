@@ -1,0 +1,62 @@
+Anotações Projeto HTML - VsCode
+
+
+- Cria uma pasta 
+  - Novo Arquivo: index.html 
+
+TAGS: 
+
+<html> (abrir) </html> (fechar) 
+<head> = Cabeçario (Carrega antes de aparecer para o usuário) 
+<Body> = Corpo (aparece para o usuário)
+<title> = Título é o nome da aba 
+<i> = Italico 
+<Strong> = Negrito
+<input = Não tem tag de fechamento, é um campo de texto criado na página (usado para formulários).
+<font> = usado para configurar tamanho, letra, tipo 
+<abbr> = indica abreviatura ou sigla
+
+Atributos de TAGS:
+(id) = identificador do elemento = "tag" <strong>
+(Style) = é voltado para o css - comandos predefinidos
+(Class) = é uma forma de padronizar aluma "palavra" o texto 
+(type) = é especifico para a Tag "input" é o campo de text, number, color.
+<img src = Endereço de uma imagem = Não tem fechamento
+     width = largura da imagem 
+
+TEXTOS: 
+<h1> = Tamanho do Título
+<h2> = Subtitulo 
+<p> = Paragrafo 
+<blockquote> =
+<mark> = marca texto
+<sup> = superior da linha
+
+Tudo sobre HTML: https://www.w3schools.com/html/
+
+LISTAS:
+- Ordenadas = <ol>
+    <li> = item da lista
+- Não ordenadas = <ul>
+    <li> = Item da lista
+
+LINKS: 
+<a (ancora) = href = link do site  - atributo especifico 
+
+Target = Blank (abre outra pagina) 
+       = Self (abre a mesma página)
+title  = Balãozinho com o texto "clique aqui e confira" 
+
+
+
+- Cria  
+  - Novo Arquivo: about.html 
+Leva a minha página
+
+<hr /> Traça uma linha
+
+<small> = letra menor
+
+
+ 
+
