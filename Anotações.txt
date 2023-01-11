@@ -58,5 +58,7 @@ Leva a minha página
 <small> = letra menor
 
 
+ALT+B - executa o HTML
+
  
 
